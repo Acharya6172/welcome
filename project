@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for A in jeep ford gmc buick 
+do
+echo " these cares are american $A "
+done
